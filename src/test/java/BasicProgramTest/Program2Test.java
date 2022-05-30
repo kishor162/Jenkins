@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Program2Test {
 	
 	@Test
-	public void empolyesname() {
+	public void employesname() {
 		System.out.println("Shrikant");
 		System.out.println("JayPrakash");
 		System.out.println("chetna");

@@ -55,7 +55,7 @@
 	</build>
 	<profiles>
 		<profile>
-			<id>CreateCampaigstestng</id>
+			<id>ProgramTest</id>
 
 			<build>
 				<plugins>
